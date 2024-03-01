@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/materialui-portfolio/static/css/main.ab85b8a4.css",
+    "main.js": "/materialui-portfolio/static/js/main.16500617.js",
+    "static/js/453.ace21015.chunk.js": "/materialui-portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/image (7).jpg": "/materialui-portfolio/static/media/image (7).1fcec136d6afb9febbf7.jpg",
+    "static/media/image (2).jpg": "/materialui-portfolio/static/media/image (2).0c71855b58ae807d611f.jpg",
+    "static/media/image (4).jpg": "/materialui-portfolio/static/media/image (4).d1f115a759766e7aa379.jpg",
+    "static/media/image (6).jpg": "/materialui-portfolio/static/media/image (6).c0694ddd84be7d4fc74f.jpg",
+    "static/media/image (5).jpg": "/materialui-portfolio/static/media/image (5).24e3f5a422bc8ef7c464.jpg",
+    "static/media/image (9).jpg": "/materialui-portfolio/static/media/image (9).8354667b9ef521d27316.jpg",
+    "static/media/image (8).jpg": "/materialui-portfolio/static/media/image (8).e70b0d4fe4c7a6e6f0fd.jpg",
+    "static/media/image (3).jpg": "/materialui-portfolio/static/media/image (3).1121f7d77ff80cccb7b5.jpg",
+    "static/media/image (1).jpg": "/materialui-portfolio/static/media/image (1).b0140c8424172d0a1d9c.jpg",
+    "static/media/Screenshot (9).png": "/materialui-portfolio/static/media/Screenshot (9).c1e2b2636d754aae99bf.png",
+    "static/media/IMG_20240130_165259.jpg": "/materialui-portfolio/static/media/IMG_20240130_165259.24b6abcafbbdd1ac95dd.jpg",
+    "static/media/Screenshot (6).png": "/materialui-portfolio/static/media/Screenshot (6).636c6d90d73c7cac9e08.png",
+    "static/media/Screenshot (8).png": "/materialui-portfolio/static/media/Screenshot (8).a3f6c276951b5fd2316b.png",
+    "static/media/Screenshot (7).png": "/materialui-portfolio/static/media/Screenshot (7).95ac6989982c25376344.png",
+    "index.html": "/materialui-portfolio/index.html",
+    "main.ab85b8a4.css.map": "/materialui-portfolio/static/css/main.ab85b8a4.css.map",
+    "main.16500617.js.map": "/materialui-portfolio/static/js/main.16500617.js.map",
+    "453.ace21015.chunk.js.map": "/materialui-portfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab85b8a4.css",
+    "static/js/main.16500617.js"
+  ]
+}
